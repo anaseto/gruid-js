@@ -1,5 +1,11 @@
-The gruid-js module provides a [gruid](https://github.com/anaseto/gruid) Driver
-for making wasm gruid applications that run in the browser.
+# gruid-js
+
+[![pkg.go.dev](https://pkg.go.dev/badge/github.com/anaseto/gruid-js.svg)](https://pkg.go.dev/github.com/anaseto/gruid-js)
+[![godocs.io](https://godocs.io/github.com/anaseto/gruid-js?status.svg)](https://godocs.io/github.com/anaseto/gruid-js)
+
+The *gruid-js* module provides a [gruid](https://github.com/anaseto/gruid)
+Driver for making wasm gruid applications that run in the browser. The module's
+package is called js.
 
 To build a browser application, you have to build it with the following
 variables:
