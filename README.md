@@ -1,3 +1,5 @@
+**Migrated to https://codeberg.org/anaseto/gruid-js because of new 2FA requirement**
+
 # gruid-js
 
 [![pkg.go.dev](https://pkg.go.dev/badge/github.com/anaseto/gruid-js.svg)](https://pkg.go.dev/github.com/anaseto/gruid-js)
